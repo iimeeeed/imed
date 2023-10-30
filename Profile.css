@@ -861,7 +861,7 @@ button:hover {
 
     .button {
         width: 23vw;
-        height: auto;
+        height: 10vh;
     }
 
     .chat {
