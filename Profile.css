@@ -603,6 +603,7 @@ button:hover {
 @media screen and (max-width: 1024px) {
     body {
         width: 100vw;
+        overflow : hidden;
     }
     .NavBar {
         display: none;
